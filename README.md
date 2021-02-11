@@ -1,4 +1,4 @@
-# lista
+# App list
 
 A new Flutter project.
 
